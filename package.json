@@ -42,10 +42,10 @@
     "url": "https://github.com/OlaMarcus09/naija-tax-utils/issues"
   },
   "devDependencies": {
-    "tsup": "^8.0.0",
-    "typescript": "^5.0.0",
     "@types/jest": "^29.0.0",
     "jest": "^29.0.0",
-    "ts-jest": "^29.0.0"
+    "ts-jest": "^29.0.0",
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.0"
   }
 }
